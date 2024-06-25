@@ -154,7 +154,7 @@ Image(filename='runs/detect/exp/image1.jpg')
 Use the Image class from IPython.display
 
 <p float="left">
-  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image2.jpg?raw=true" width="400" />
+  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image2.jpg?raw=true" width="500" />
   <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image1.jpg?raw=true" width="400" /> 
 </p>
 
@@ -205,11 +205,10 @@ Import the `b64encode` function from the base64 module, which will be used to en
 **Display the video**
 
 This HTML string is passed to `HTML()`, which renders it as embedded video content within the  environment.
-
-<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2.gif" width="500" height="250"><br>
-<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="250" height="500"><br>
-
-
+<p float="left">
+  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2.gif" width="600" height="300"><br>
+  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="300" height="600"><br>
+</p>
 
 
 # Collaborators
