@@ -209,19 +209,17 @@ This HTML string is passed to `HTML()`, which renders it as embedded video conte
   <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2.gif" width="600" height="300"><br>
   <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="300" height="600"><br>
 </p>
+
 ## Results
 
 https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bdb-9300-4122811b0d10 
 
-
-
 https://github.com/ab0rahman/Object_Detection/assets/143890577/b0a594f4-d661-4872-9ac8-f7d2f45bb11e
-
-## Results
 
 # Collaborators
 ## 🔗 Links
-  Abdur Rahman
+
+  **Abdur Rahman**
   
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab0rahman)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-5491a824b/)
