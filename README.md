@@ -216,12 +216,10 @@ This HTML string is passed to `HTML()`, which renders it as embedded video conte
 
 
 # Collaborators
-  Abdur Rahman | [GitHub](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
-
-
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ab0rahman)
+  Abdur Rahman
+  
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab0rahman)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-5491a824b/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](mailto:letsmail.him@gmail.com)
-
+[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letsmail.him@gmail.com)
 
