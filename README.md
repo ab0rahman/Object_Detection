@@ -1,10 +1,7 @@
-# Object_Detection
-
-
 
 # Object Detection using YOLOv9
 
-# About YOLO Algorithm:
+## About YOLO Algorithm:
 **YOLO (You Only Look Once)** is a real-time object detection algorithm that operates as a single-stage object detector using a **convolutional neural network (CNN)** to predict bounding boxes and class probabilities for objects within input images. The algorithm divides the input image into a grid of cells, where each cell predicts the probability of the presence of an object and the bounding box coordinates of that object, as well as the object's class. Unlike two-stage object detectors such as R-CNN and its variants, YOLO processes the entire image in one pass, making it faster and more efficient. Over time, YOLO has been enhanced with features that improve accuracy, speed up processing, and handle small objects more effectively. Due to these improvements, YOLO is widely used for real-time object detection tasks, such as real-time video analytics and real-time video surveillance. The YOLO algorithm involves several key steps: grid division, bounding box prediction, and class prediction.
 
 ## Setting Up
@@ -157,8 +154,8 @@ Image(filename='runs/detect/exp/image1.jpg')
 Use the Image class from IPython.display
 
 <p float="left">
-  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image2.jpg?raw=true" width="900" />
-  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image1.jpg?raw=true" width="900" /> 
+  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image2.jpg?raw=true" width="400" />
+  <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/image1.jpg?raw=true" width="400" /> 
 </p>
 
 ## Display the Video
@@ -209,8 +206,8 @@ Import the `b64encode` function from the base64 module, which will be used to en
 
 This HTML string is passed to `HTML()`, which renders it as embedded video content within the  environment.
 
-<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2.gif" width="800" height="400"><br>
-<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="400" height="800"><br>
+<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2.gif" width="500" height="250"><br>
+<img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="250" height="500"><br>
 
 
 
