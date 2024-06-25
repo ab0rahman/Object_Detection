@@ -210,11 +210,17 @@ This HTML string is passed to `HTML()`, which renders it as embedded video conte
   <img src="https://github.com/ab0rahman/Object_Detection/blob/main/results/movie2%20(1).gif?raw=true" width="300" height="600"><br>
 </p>
 
+## Results
+<details>
+<summary></summary>
+ https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bdb-9300-4122811b0d10 <br>
+</details>
+
 
 # Collaborators
   Abdur Rahman | [GitHub](https://github.com/ab0rahman) | [Email](mailto:letsmail.him@gmail.com) | 
 
 
-https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bdb-9300-4122811b0d10
+
 
 
