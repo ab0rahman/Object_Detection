@@ -10,7 +10,7 @@ https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bd
   <img src="https://github.com/ab0rahman/HandWritten-Digits-Recog/blob/main/images/Screenshot%202024-06-20%20014621.png?raw=true" width="900" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/ab0rahman/HandWritten-Digits-Recog/blob/main/images/Screenshot%202024-06-20%20014720.png?raw=true" width="900" />
+  <img src="https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bdb-9300-4122811b0d10" width="900" />
   <img src="https://github.com/ab0rahman/HandWritten-Digits-Recog/blob/main/images/Screenshot%202024-06-20%20014819.png?raw=true" width="900" /> 
 </p>
 </p>
