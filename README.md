@@ -1,5 +1,5 @@
-
 # Object Detection using YOLOv9
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ab0rahman/Object_Detection/blob/main/Object_Detection.ipynb)
 
 ## About YOLO Algorithm:
 **YOLO (You Only Look Once)** is a real-time object detection algorithm that operates as a single-stage object detector using a **convolutional neural network (CNN)** to predict bounding boxes and class probabilities for objects within input images. The algorithm divides the input image into a grid of cells, where each cell predicts the probability of the presence of an object and the bounding box coordinates of that object, as well as the object's class. Unlike two-stage object detectors such as R-CNN and its variants, YOLO processes the entire image in one pass, making it faster and more efficient. Over time, YOLO has been enhanced with features that improve accuracy, speed up processing, and handle small objects more effectively. Due to these improvements, YOLO is widely used for real-time object detection tasks, such as real-time video analytics and real-time video surveillance. The YOLO algorithm involves several key steps: grid division, bounding box prediction, and class prediction.
