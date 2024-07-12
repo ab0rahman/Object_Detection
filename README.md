@@ -214,7 +214,8 @@ This HTML string is passed to `HTML()`, which renders it as embedded video conte
 ## Results
 
  Check out the results by [Clicking here](https://github.com/ab0rahman/Object_Detection/assets/143890577/ee8ab770-f12a-4bdb-9300-4122811b0d10) 
- [Result 2](https://github.com/ab0rahman/Object_Detection/assets/143890577/b0a594f4-d661-4872-9ac8-f7d2f45bb11e) 
+
+ Check out the results by [Clicking here](https://github.com/ab0rahman/Object_Detection/assets/143890577/b0a594f4-d661-4872-9ac8-f7d2f45bb11e) 
 
 
 
